@@ -1,1 +1,1 @@
-# zadanka z podstaw programowania
+# podstawy programowania ćwiczenia
