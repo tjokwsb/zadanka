@@ -1,1 +1,1 @@
-# zadanka
+# zadanka z podstaw programowania
